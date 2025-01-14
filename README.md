@@ -1,73 +1,74 @@
-<div align="center">
-  
-# Oi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Jeferson
+# 👋 Olá! Meu nome é **Jeferson**
 
-### Desenvolvedor Full Stack 
-###
+## 🚀 Desenvolvedor Front-End
 
+Sou um desenvolvedor front-end com experiência em projetos de **e-commerce**, **automação de marketing** e **desenvolvimento web**. 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevJefersonAbreu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevJefersonAbreu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Tenho foco em:
+- Design e implementação de soluções ágeis e escaláveis
+- Otimização de código e segurança
+- Garantia de qualidade por meio de revisões de código
 
-###
-### Tecnologias que uso no meu dia a dia
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-</div>
+Minha abordagem é colaborativa e orientada a resultados, sempre buscando inovações para melhorar a **experiência do cliente** e o **desempenho do negócio**.
 
-###
-### Contato
-<div align="center">
-  <a href="https://www.instagram.com/jeferson_abreu/?igsh=aWIzNXZ6d3hrbnNk">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo" />
+📚 Trabalho com **Scrum** e **Kanban** para gerenciar fluxos de trabalho de maneira eficiente.
+
+---
+
+### 🌍 **Localização:** Brasil
+### ✉️ **Contato:** [devjefersonabreu10@gmail.com](mailto:devjefersonabreu10@gmail.com)
+### 🚀 **Atualmente trabalhando na:** [Lucas Tecnologia Serviços](http://www.lucastechnologyservice.com/home)
+### 🧠 **Aprendendo:** Golang
+
+---
+
+## 💻 **Habilidades**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
-  <a href="https://web.telegram.org/k/#@DevJefersonAbreu">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="telegram logo" />
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
   </a>
-  <a href="https://discord.com/invite/yBg7VDN38T">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>
-  <a href="mailto:devjefersonabreu10@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
-  <a href="https://www.linkedin.com/in/jeferson-da-silva-abreu/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
-  <a href="https://api.whatsapp.com/qr/X3BKJ6AENFR7G1?autoload=1&app_absent=0">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="whatsapp logo" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
-</div>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  </a>
+</p>
 
-###
-### Sobre mim
-<!-- Left-aligned section using a table -->
-| **Informações** |
-|:----------------|
-| 🔭 Atualmente estou em busca de uma oportunidade de estágio. |
-| 🌱 Atualmente estou aprendendo a linguagem Java. |
-| 💬 Pergunte-me sobre JavaScript. |
-| 😄 Pronomes: Ele/Dele. |
-| ⚡ Curiosidade: gosto de esportes e viajar. |
-| 🌍 Resido no Brasil. |
-| 🖥️ Veja meu portfólio em [Meu Portfólio](http://devjefersonabreu.github.io/portfolio-1.0/) |
-| ✉️ Você pode entrar em contato comigo em [devjefersonabreu10@gmail.com](mailto:devjefersonabreu10@gmail.com) |
+---
 
+## 🌐 **Socials**
+<p align="left">
+  <a href="https://www.linkedin.com/in/jeferson-da-silva-abreu" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    </picture>
+  </a>
+</p>
 
-###
-### Top Repositories
+---
 
-<div width="100%" align="center"><a href="https://github.com/DevJefersonAbreu/pokedex-labenu" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevJefersonAbreu&repo=pokedex-labenu&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/DevJefersonAbreu/landing-page-html-css-javascript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevJefersonAbreu&repo=landing-page-html-css-javascript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+✨ **Obrigado por visitar meu perfil!**
