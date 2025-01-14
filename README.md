@@ -2,7 +2,7 @@
 
 ## 🚀 Desenvolvedor Front-End
 
-Sou um desenvolvedor front-end com experiência em projetos de **e-commerce**, **automação de marketing** e **desenvolvimento web**. 
+Sou um desenvolvedor front-end com experiência em projetos de **e-commerce** e **desenvolvimento web**. 
 
 Tenho foco em:
 - Design e implementação de soluções ágeis e escaláveis
