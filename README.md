@@ -17,7 +17,7 @@ Minha abordagem é colaborativa e orientada a resultados, sempre buscando inova�
 
 ### 🌍 **Localização:** Brasil
 ### ✉️ **Contato:** [devjefersonabreu10@gmail.com](mailto:devjefersonabreu10@gmail.com)
-### 🚀 **Atualmente trabalhando na:** [Lucas Tecnologia Serviços](http://www.lucastechnologyservice.com/home)
+### 🚀 **Atualmente trabalhando na:** [Lucas Tecnologia Serviços]([http://www.lucastechnologyservice.com/home](https://www.linkedin.com/company/lucas-technology-services/))
 ### 🧠 **Aprendendo:** Golang
 
 ---
